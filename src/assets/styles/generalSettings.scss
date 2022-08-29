@@ -1,0 +1,35 @@
+.wrapper-general {
+    background-color: white;
+}
+
+.normalFontWeight {
+    font-weight: normal;
+}
+
+.label {
+    font-weight: bold;
+    margin: 0px 0px 5px 0px;
+}
+
+.textField {
+    width: 40%;
+    background-color: #dfe6e9;
+    font-size: 14px;
+}
+
+.warningText {
+    font-weight: bold;
+    color: #e74c3c;
+    margin: 0px 0px 5px 0px;
+}
+
+.cancelButton {
+    margin-right: 10px !important;
+    background-color: #636e72;
+    color: white;
+}
+
+.saveButton {
+    background-color: #0984e3;
+    color: white;
+}
